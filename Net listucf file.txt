@@ -1,0 +1,13 @@
+Net list:/ucf file:
+# PlanAhead Generated physical constraints
+NET "lcd_en" LOC = P8;
+NET "lcd_rs" LOC = P7;
+NET "p_clock" LOC = P56;
+NET "p_lcd[0]" LOC = P97;
+NET "p_lcd[1]" LOC = P95;
+NET "p_lcd[2]" LOC = P94;
+NET "p_lcd[3]" LOC = P93;
+NET "p_lcd[4]" LOC = P92;
+NET "p_lcd[5]" LOC = P88;
+NET "p_lcd[6]" LOC = P87;
+NET "p_lcd[7]" LOC = P85;
